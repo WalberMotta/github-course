@@ -5,3 +5,5 @@ Saiba mais em ...
 Gostou do curso? quer mais?
 
 Fazendo uma alteração para testar o envio para repositório remoto.
+
+Novos cursos em:
